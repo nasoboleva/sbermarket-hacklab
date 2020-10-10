@@ -10,4 +10,4 @@ DL based Products Prediction and Recommendation System.
 Current repository contains Jupyter notebooks, which solve problems for Sbermarket hackaton.
 Main data and information about the cproblem can be found here: [kaggle]{https://www.kaggle.com/c/test-recsys/team}.
 
-Aliens are here ![]{aliens.jpg}
+Aliens are here ![aliens]{aliens.jpg}
